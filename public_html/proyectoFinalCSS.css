@@ -1,0 +1,26 @@
+h1 {
+    text-shadow: 2px 2px #ffff00;
+    color: #0000ff;
+    text-align: center;
+}
+
+legend {
+    color: white;
+    background: red;
+}
+
+fieldset {
+    background: #00ffff;
+    border-color: #00ffff;
+}
+
+.cajatexto {
+    background-color: yellow;
+}
+
+.bmostrar {
+    background-color: #ffb3b3;
+    text-align: center;
+    border-radius: 4px;
+    width: 100px;
+}
